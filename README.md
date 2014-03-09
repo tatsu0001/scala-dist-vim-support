@@ -1,4 +1,4 @@
-scala-dit-vim-support
+scala-dist-vim-support
 =====
 
 original files:
